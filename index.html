@@ -5,6 +5,7 @@
     <head>
     
         <meta charset="UTF-8" />
+        <link rel="stylesheet" href="./assets/css/style.css"
         <title>Run Buddy</title>
     
     </head>
@@ -38,10 +39,51 @@
          </nav>
 
         </header>
-        
-        <!-- hero/jumbotron-->
 
+    <!-- CTA hero form -->
         <section>
+            
+            <div>
+                <h3>Get Started Today</h3>
+                <p>Fill out this form and one of our trainers will schedual a consultation</p>
+            
+
+            <form>
+                <lable for="name">Enter full name:</lable>
+                <input type="text" placeholder="Youre Name" name="name" id="name" />
+                <lable for="email">Enter email address:</lable>
+                <input type="email" placeholder="Email Address" name="email" id="email" />
+                <lable for="phone">Enter a telephone number</lable>
+                <input type="tel" placeholder="Phone Number" name="phone" id="phone" />
+
+                <p>
+                    Have you worked out with a trainer before?
+                    <input type="radio" name="trainer-confirm" id="trainer-yes" />
+                    <lable for="trainer-yes">Yes</lable>
+                    <input type="radio" name="trainer-confirm" id="trainer-no" />
+                    <lable for="trainer-no">No</lable>
+                </p>
+
+                <p>
+                    I acknowledge that I am at least 18 yearsof age.
+                    <lable for="checkbox" >
+                        I acknowledge that I am at least 18 years og age.
+                    </lable>
+                    <input type="checkbox" name="age-confirm" id="checkbox" />
+                </p>
+
+                <button type="submit">
+                    Get running!
+                </button>
+
+            </form>
+
+            </div>
+        
+        </section>
+        <!-- end of hero container-->
+
+       
 
         </section>
         
@@ -66,6 +108,11 @@
    <!--Footer-->
    <footer>
        <h2> ❤️ Made with love by Run Buddy.</h2>
+
+       <div>
+           <a href="#">Read Our Privacy Policy</a><br />
+           &copy; Run Buddy Inc.
+       </div>
    </footer>
 
     </html>
