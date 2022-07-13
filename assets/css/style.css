@@ -187,6 +187,10 @@
     font-size: 38px;
 }
 
+.trainers {
+    text-align: center;
+}
+
 .trainer {
     width: 900px;
     margin: 0 auto 30px auto;
