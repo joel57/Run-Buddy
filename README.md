@@ -1,5 +1,4 @@
-
-# Run-Buddy inc.
+# Run-Buddy inc..
 
 
 ## Purpose
