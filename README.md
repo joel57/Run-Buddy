@@ -10,7 +10,7 @@ A webpage that offers fitness training services.
 * CSS
 
 ## Website
-
+https://joel57.github.io/Run-Buddy/ 
 
 ##
 Contribution
