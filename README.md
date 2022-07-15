@@ -15,3 +15,5 @@ https://joel57.github.io/Run-Buddy/
 ##
 Contribution
 Made with  by Joel DR.
+
+### ### ©️2019 Joel DR.
